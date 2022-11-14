@@ -1,8 +1,8 @@
 body{
-    background-color: aquamarine;
+    background-color: #CFF5E7;
 }
 head{
-    background-color: aquamarine;
+    background-color: #CFF5E7;
 }
 h2{
     text-align: center;
@@ -10,6 +10,12 @@ h2{
 p{
     text-align: center;
 }
-input{
+.donate{
     text-align: center;
+    position: relative;
+    background-color: pink;
+    margin-left: 550px;
+    border:100px;
+    border-color: black;
+    margin-bottom: 100px;
 }
